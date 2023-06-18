@@ -3,7 +3,7 @@ A fully responsive blog website that is built with Next.js, TailwindCSS, and Gra
 
 ## Live Demo
 
-[Live Demo Link](https://nextjs-blog-k8qxicjft-abhigyan001.vercel.app/)
+[Live Demo Link](https://nextjs-blog-97braejwi-abhigyan001.vercel.app/)
 
 ## Build-With
 
